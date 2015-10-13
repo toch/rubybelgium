@@ -10413,63 +10413,70 @@ section#contact {
   section#contact .section-heading {
     color: white; }
   /* line 537, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  section#contact li, section#contact a, section#contact p {
+    color: white; }
+  /* line 540, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  section#contact ul {
+    list-style-type: none;
+    padding: 0; }
+  /* line 544, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   section#contact .form-group {
     margin-bottom: 25px; }
-    /* line 539, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+    /* line 546, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
     section#contact .form-group input,
     section#contact .form-group textarea {
       padding: 20px; }
-    /* line 543, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+    /* line 550, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
     section#contact .form-group input.form-control {
       height: auto; }
-    /* line 546, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+    /* line 553, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
     section#contact .form-group textarea.form-control {
       height: 236px; }
-  /* line 550, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 557, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   section#contact .form-control:focus {
     border-color: #ff0f21;
     box-shadow: none; }
-  /* line 554, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 561, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   section#contact ::-webkit-input-placeholder {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     color: #bbbbbb; }
-  /* line 559, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 566, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   section#contact :-moz-placeholder {
     /* Firefox 18- */
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     color: #bbbbbb; }
-  /* line 564, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 571, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   section#contact ::-moz-placeholder {
     /* Firefox 19+ */
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     color: #bbbbbb; }
-  /* line 569, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 576, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   section#contact :-ms-input-placeholder {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     color: #bbbbbb; }
-  /* line 574, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 581, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   section#contact .text-danger {
     color: #e74c3c; }
 
-/* line 581, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 588, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 footer {
   padding: 25px 0;
   text-align: center; }
-  /* line 584, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 591, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   footer span.copyright {
     line-height: 40px;
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     text-transform: none; }
-  /* line 589, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 596, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   footer ul.quicklinks {
     margin-bottom: 0;
     line-height: 40px;
@@ -10477,10 +10484,10 @@ footer {
     text-transform: uppercase;
     text-transform: none; }
 
-/* line 599, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 606, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 ul.social-buttons {
   margin-bottom: 0; }
-  /* line 602, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 609, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   ul.social-buttons li a {
     display: block;
     background-color: #222;
@@ -10494,18 +10501,18 @@ ul.social-buttons {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s; }
-    /* line 615, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+    /* line 622, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
     ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active {
       background-color: #ff0f21; }
 
-/* line 624, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 631, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 .btn:focus,
 .btn:active,
 .btn.active,
 .btn:active:focus {
   outline: none; }
 
-/* line 632, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 639, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 .portfolio-modal .modal-content {
   border-radius: 0;
   background-clip: border-box;
@@ -10515,27 +10522,27 @@ ul.social-buttons {
   min-height: 100%;
   padding: 100px 0;
   text-align: center; }
-  /* line 641, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 648, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em; }
-  /* line 645, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 652, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   .portfolio-modal .modal-content p {
     margin-bottom: 30px; }
-  /* line 648, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 655, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 16px; }
-  /* line 654, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 661, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   .portfolio-modal .modal-content ul.list-inline {
     margin-bottom: 30px;
     margin-top: 0; }
-  /* line 658, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 665, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   .portfolio-modal .modal-content img {
     margin-bottom: 30px; }
-/* line 662, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 669, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 .portfolio-modal .close-modal {
   position: absolute;
   width: 75px;
@@ -10544,10 +10551,10 @@ ul.social-buttons {
   top: 25px;
   right: 25px;
   cursor: pointer; }
-  /* line 670, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 677, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   .portfolio-modal .close-modal:hover {
     opacity: 0.3; }
-  /* line 673, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+  /* line 680, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
   .portfolio-modal .close-modal .lr {
     height: 75px;
     width: 1px;
@@ -10559,7 +10566,7 @@ ul.social-buttons {
     -webkit-transform: rotate(45deg);
     /* Safari and Chrome */
     z-index: 1051; }
-    /* line 684, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+    /* line 691, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
     .portfolio-modal .close-modal .lr .rl {
       height: 75px;
       width: 1px;
@@ -10570,30 +10577,30 @@ ul.social-buttons {
       -webkit-transform: rotate(90deg);
       /* Safari and Chrome */
       z-index: 1052; }
-/* line 697, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 704, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none; }
 
-/* line 705, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 712, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 ::-moz-selection {
   text-shadow: none;
   background: #ff0f21; }
 
-/* line 710, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 717, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 ::selection {
   text-shadow: none;
   background: #ff0f21; }
 
-/* line 715, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 722, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 img::selection {
   background: transparent; }
 
-/* line 719, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 726, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 img::-moz-selection {
   background: transparent; }
 
-/* line 723, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
+/* line 730, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/_agency.scss */
 body {
   webkit-tap-highlight-color: #ff0f21; }
 
