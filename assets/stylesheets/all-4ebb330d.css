@@ -10604,3 +10604,7 @@ header {
 /* line 17, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/all.scss */
 .navbar, .intro-lead-in, .intro-heading {
   text-shadow: 1px 1px 2px black; }
+
+/* line 21, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/all.scss */
+.navbar.navbar-shrink {
+  text-shadow: none; }
