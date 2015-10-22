@@ -13422,3 +13422,5 @@ $('.navbar-collapse ul li a').click(function() {
 
 
 
+
+$('#contact ul.social-buttons a').tooltip();

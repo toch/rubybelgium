@@ -10627,3 +10627,27 @@ header {
 /* line 29, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/all.scss */
 #portfolio .section-heading, #events .section-heading {
   margin-bottom: 75px; }
+
+/* line 38, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/all.scss */
+#contact ul.social-buttons li {
+  overflow: hidden;
+  margin: 0 1.5%; }
+  /* line 42, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/all.scss */
+  #contact ul.social-buttons li a {
+    background-color: white;
+    color: #222;
+    font-size: 35px;
+    width: 70px;
+    height: 70px;
+    line-height: 70px; }
+    /* line 50, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/all.scss */
+    #contact ul.social-buttons li a:hover, #contact ul.social-buttons li a:focus, #contact ul.social-buttons li a:active {
+      background-color: #ff0f21;
+      color: white; }
+/* line 57, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/all.scss */
+#contact ul.social-buttons .tooltip-inner {
+  background-color: white;
+  color: #222; }
+/* line 62, /Users/tiago/Projets/Jobs/RubyBelgium/rubybelgium.github.io/source/assets/stylesheets/all.scss */
+#contact ul.social-buttons .tooltip-arrow {
+  border-top-color: white; }
